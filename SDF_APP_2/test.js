@@ -1,3 +1,0 @@
-aaaa;
-Testsync;
-Testsync1;
